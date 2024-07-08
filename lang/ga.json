@@ -1,1 +1,6 @@
-{}
+{
+    "RestrictLanguageSelection": {
+        "RestrictLanguages": "Roghnaigh na teangacha is maith leat a bheith ar fáil i roghnóirí teanga.",
+        "UseRestriction": "Úsáid srian teanga"
+    }
+}
